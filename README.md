@@ -1,3 +1,10 @@
+========
+
+## This repository has been moved to  https://github.com/PrestaShop/prestashop-flashlight
+
+========
+
+
 ![PrestaShop Flashlight logo](./assets/prestashop_flashlight_logo.png)
 
 Spin a Prestashop testing instance in seconds!
